@@ -7,15 +7,17 @@ This is a test file for __experimentation__ with _markdown_. Combining boldface 
 Lists can be useful for:
 1. Listing items
 2. Making lists more readable
-..1. listing items in sublists
+  1. listing items in sublists
 3. Adding items thereafter.
 
 
 We can also have unordered lists, to avoid hierarchy:
 - like this
 - and this
+  * and subitems
+- and further items
 
-...We can slo have paragraph indenting.
+   We can slo have paragraph indenting.
 
 ## Displaying code
 
